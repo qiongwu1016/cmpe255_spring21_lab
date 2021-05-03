@@ -1,0 +1,9 @@
+Loading data from sklearn.dataset ...
+Train SGDClassifier model with training dataset ...
+accuracy of test data predictions:  0.9444
+Model training completed
+Test out a prediction from a random input ...
+test random input data index is 61249
+single digit prediction:  [False] , actual digit:  1
+Saving figure (index:  61249 )
+cross-val scores:  [0.93781606 0.96245661 0.91055587]

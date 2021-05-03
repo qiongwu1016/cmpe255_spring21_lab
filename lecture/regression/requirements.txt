@@ -1,0 +1,3 @@
+Does varying the polynomial degree change your accuracy?
+b. Canyouidentifyifyourmodelisunderfittingoroverfitting?(Hintusecross-
+validation error and in-sample error plot to identify high bias and high variance.) Plot therelationships.

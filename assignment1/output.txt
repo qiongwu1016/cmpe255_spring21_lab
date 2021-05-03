@@ -1,0 +1,7 @@
+Linear regression (feature: LSTAT) RMSE =  5.789606996393182
+Linear regression (feature: LSTAT) r2 score =  0.5429180422970386
+Polynomial regression (feature: LSTAT) RMSE =  5.230949385975766
+Polynomial regression (feature: LSTAT) r2 score =  0.6268727686008047
+Multi linear regression (feature: ['LSTAT', 'RM', 'PTRATIO']) RMSE =  5.207202455789536
+Multi linear regression (feature: ['LSTAT', 'RM', 'PTRATIO']) r2 score =  0.6302528487272827
+Multi linear regression (feature: ['LSTAT', 'RM', 'PTRATIO']) adjusted r2 score =  0.6189340583821995
